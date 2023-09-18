@@ -20,7 +20,7 @@ To install the OP Pharmacy Management System, you will need a web server with PH
 1. Clone the OP Pharmacy Management System repository from GitHub:
 
 ```
-git clone https://github.com/bisnukundu/OP-Pharmacy-M-S.git
+git clone https://github.com/bisnukundu/OP-Pharmacy-Management-System.git
 ```
 
 2. Create a database for the OP Pharmacy Management System:
